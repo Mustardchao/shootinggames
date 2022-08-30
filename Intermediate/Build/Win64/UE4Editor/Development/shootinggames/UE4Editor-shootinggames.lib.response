@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-shootinggames.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\shootinggamesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\shooterCharacter.cpp.obj"
+"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\shootinggames.cpp.obj"
+"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\shootinggamesGameModeBase.cpp.obj"
+"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\shooterCharacter.gen.cpp.obj"
+"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\shootinggames.init.gen.cpp.obj"
+"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\shootinggamesGameModeBase.gen.cpp.obj"
+"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\Default.rc2.res"
+/OUT:"C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\UE4Editor-shootinggames.lib"
+/INCLUDE:IMPLEMENT_MODULE_shootinggames

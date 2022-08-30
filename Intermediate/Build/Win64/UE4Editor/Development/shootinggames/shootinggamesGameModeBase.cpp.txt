@@ -1,0 +1,7 @@
+C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Development\shootinggames\Definitions.shootinggames.h
+C:\Users\54125\Documents\Unreal Projects\shootinggames\Source\shootinggames\shootinggamesGameModeBase.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\54125\Documents\Unreal Projects\shootinggames\Intermediate\Build\Win64\UE4Editor\Inc\shootinggames\shootinggamesGameModeBase.generated.h

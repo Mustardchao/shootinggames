@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\shootinggames.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{559387EC-1664-4624-AFA2-FFA412EC3869}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\shootinggames.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\shootinggamesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F94ECDBC-690E-43D0-A934-71C7F3CB5D21}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\shootinggames">
+      <UniqueIdentifier>{43E7B1EF-60CB-442E-8FD8-208DBC79CF19}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\shootinggames\shooterCharacter.cpp">
+      <Filter>Source\shootinggames</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\shootinggames\shooterCharacter.h">
+      <Filter>Source\shootinggames</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\shootinggames\shootinggames.Build.cs">
+      <Filter>Source\shootinggames</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\shootinggames\shootinggames.cpp">
+      <Filter>Source\shootinggames</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\shootinggames\shootinggames.h">
+      <Filter>Source\shootinggames</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\shootinggames\shootinggamesGameModeBase.cpp">
+      <Filter>Source\shootinggames</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\shootinggames\shootinggamesGameModeBase.h">
+      <Filter>Source\shootinggames</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>
